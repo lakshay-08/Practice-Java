@@ -12,8 +12,8 @@ import java.util.Scanner;
 import java.util.UUID;
 /*
 Prerequisite
-Create a databse he in Mysql
-Create a table in that instructor
+Create a database named hr in Mysql
+Create a table instructor in hr
 with
 id Varchar
 name Varchar
